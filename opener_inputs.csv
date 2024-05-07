@@ -1,0 +1,89 @@
+model_name,temperature,name,job_title,organization,project_title,looking_for,prompt
+gemini-pro,0.5,Yaqub Qamar Ad Din Dibiazah,Director Engineering,Imaarat Tech,CentDoc,"In the past, the company encountered an issue where their product manuals became out of sync with the software documentation. As the development teams continued to add new features and refine existing ones, they also updated the documentation. However, this required manual synchronization between the product manuals and the software documentation.
+
+To address this problem, the company has envisioned a solution called ""CentDoc"". This tool will automatically detect any inconsistencies between the product manuals and software documentation. It will then remove outdated information from the manuals using the software documentation, but only after receiving explicit approval from the user.","You are responsible to be the Opener agent for the lead and will aim to establish connection to encourage further communication.
+
+    You will generate a personalized email using the following details of the recipient:
+    Name: Yaqub Qamar Ad Din Dibiazah
+    Job Title: Director Engineering
+    Organization: Imaarat Tech
+    Project Title: CentDoc
+    Looking For: In the past, the company encountered an issue where their product manuals became out of sync with the software documentation. As the development teams continued to add new features and refine existing ones, they also updated the documentation. However, this required manual synchronization between the product manuals and the software documentation.
+
+To address this problem, the company has envisioned a solution called ""CentDoc"". This tool will automatically detect any inconsistencies between the product manuals and software documentation. It will then remove outdated information from the manuals using the software documentation, but only after receiving explicit approval from the user.
+
+    The email should inquire about more details regarding the scope and budget they have in mind.
+
+    The subject should be brief and to the point limited to only 30 characters.
+    The body should be concise and limited to three paragraphs and should ask for more details about the project.
+    The tone of the email should be human-like and professional.
+
+    You will use my name as ""Muhammad Ahmed Suhail"" and my organization as ""Antematter""
+
+    Your output should be the subject of the email and the personalized email.
+    
+    
+    "
+gemini-pro,0.5,Joe Steve,CTO,Anz LLC,ConSys,"Anz LLC is a company that creates SEO-enabled internet content for small businesses. They have a team of 20 members who write content for various products offered by different businesses. The team now plans to utilize generative AI to expedite the writing process, which will facilitate scaling for them.","You are responsible to be the Opener agent for the lead and will aim to establish connection to encourage further communication.
+
+    You will generate a personalized email using the following details of the recipient:
+    Name: Joe Steve
+    Job Title: CTO
+    Organization: Anz LLC
+    Project Title: ConSys
+    Looking For: Anz LLC is a company that creates SEO-enabled internet content for small businesses. They have a team of 20 members who write content for various products offered by different businesses. The team now plans to utilize generative AI to expedite the writing process, which will facilitate scaling for them.
+
+    The email should inquire about more details regarding the scope and budget they have in mind.
+
+    The subject should be brief and to the point limited to only 30 characters.
+    The body should be concise and limited to three paragraphs and should ask for more details about the project.
+    The tone of the email should be human-like and professional.
+
+    You will use my name as ""Muhammad Ahmed Suhail"" and my organization as ""Antematter""
+
+    Your output should be the subject of the email and the personalized email.
+    
+    
+    "
+gemini-pro,0.5,Sophia Rodriguez,Lead Developer,TechSprint Innovations,AutoCode,"TechSprint Innovations is focused on automating the coding process to enhance development speed and accuracy. As the Lead Developer, Sophia Rodriguez spearheads the implementation of AutoCode, an innovative tool designed to automatically generate code snippets based on predefined patterns. This aims to streamline the coding workflow and boost overall development efficiency.","You are responsible to be the Opener agent for the lead and will aim to establish connection to encourage further communication.
+
+    You will generate a personalized email using the following details of the recipient:
+    Name: Sophia Rodriguez
+    Job Title: Lead Developer
+    Organization: TechSprint Innovations
+    Project Title: AutoCode
+    Looking For: TechSprint Innovations is focused on automating the coding process to enhance development speed and accuracy. As the Lead Developer, Sophia Rodriguez spearheads the implementation of AutoCode, an innovative tool designed to automatically generate code snippets based on predefined patterns. This aims to streamline the coding workflow and boost overall development efficiency.
+
+    The email should inquire about more details regarding the scope and budget they have in mind.
+
+    The subject should be brief and to the point limited to only 30 characters.
+    The body should be concise and limited to three paragraphs and should ask for more details about the project.
+    The tone of the email should be human-like and professional.
+
+    You will use my name as ""Muhammad Ahmed Suhail"" and my organization as ""Antematter""
+
+    Your output should be the subject of the email and the personalized email.
+    
+    
+    "
+gemini-pro,0.5,Ayesha Raza,Marketing Manager,LuxeDrive Rentals,CarElite,"LuxeDrive Rentals specializes in providing luxury car rental services, offering an exclusive fleet of high-end vehicles. Isabella Thompson, the Marketing Manager, is spearheading the initiative to establish a strong online presence. The company envisions a complete mobile solution, CarElite, tailored to showcase their premium car collection, facilitate seamless bookings, and enhance the overall customer experience.","You are responsible to be the Opener agent for the lead and will aim to establish connection to encourage further communication.
+
+    You will generate a personalized email using the following details of the recipient:
+    Name: Ayesha Raza
+    Job Title: Marketing Manager
+    Organization: LuxeDrive Rentals
+    Project Title: CarElite
+    Looking For: LuxeDrive Rentals specializes in providing luxury car rental services, offering an exclusive fleet of high-end vehicles. Isabella Thompson, the Marketing Manager, is spearheading the initiative to establish a strong online presence. The company envisions a complete mobile solution, CarElite, tailored to showcase their premium car collection, facilitate seamless bookings, and enhance the overall customer experience.
+
+    The email should inquire about more details regarding the scope and budget they have in mind.
+
+    The subject should be brief and to the point limited to only 30 characters.
+    The body should be concise and limited to three paragraphs and should ask for more details about the project.
+    The tone of the email should be human-like and professional.
+
+    You will use my name as ""Muhammad Ahmed Suhail"" and my organization as ""Antematter""
+
+    Your output should be the subject of the email and the personalized email.
+    
+    
+    "
