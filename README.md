@@ -1,7 +1,4 @@
-# AI Engineer Recruitment Challenge
-
-Welcome to the repository for the AI Engineer Recruitment Challenge at Antematter. This project is designed to assist the sales department at Antematter with automated processing tasks using two primary agents: the Opener Agent and the Escalator Agent.
-
+# Open the Driver_Code.ipynb file to see already running code after cloning the repo
 
 ## Overview
 
