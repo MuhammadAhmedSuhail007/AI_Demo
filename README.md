@@ -26,11 +26,11 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuhammadAhmedSuhail/Antematter_AI_Engineer_Challenge.git
+   git clone https://github.com/MuhammadAhmedSuhail007/AI_Demo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd ai-engineer-recruitment-challenge
+   cd AI_Demo
     ```
 3. Install the required packages:
    ```bash
